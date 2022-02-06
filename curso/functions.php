@@ -16,8 +16,8 @@ add_action( 'wp_enqueue_scripts', 'load_scripts' );
 function wpcurso_config(){
     register_nav_menus(
         array(
-            'my_main_menu' =>'Main Menu',
-            'footer_menu' => 'footer Menu'
+            'my_main_menu' => 'Main Menu',
+            'footer_menu' => 'Footer Menu'
         )
     );
 
