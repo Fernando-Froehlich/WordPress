@@ -28,7 +28,7 @@ Template Name: General Template
                                 <h2><?php the_title(); ?></h2>
                                 <?php the_content(); ?>
                             </article>
-                            <p>Este modelo de páginas é igual em todas as páginas selecionadas</p>
+                            
                             <?php
                                 endwhile;
                             else:
