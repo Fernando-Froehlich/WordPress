@@ -10,14 +10,14 @@
 						
 						<div class="error-404">
                             <header>
-                                <h1>Page Not Found</h1>
-                                <p>Unfotunately, the page cannot be found</p>
+                                <h1><?php _e( 'Page Not Found', 'wpcurso' )?></h1>
+                                <p><?php _e('Unfotunately, the page cannot be found', 'wpcurso') ?></p>
                             </header>
 
                             <div class="error">
-                                <p>How about a new search?</p>
+                                <p><?php _e('How about a new search?', 'wpcurso')?></p>
                                 <?php get_search_form(); ?>
-                                <?php the_widget('WP_Widget_Recent_Posts', array('title' => 'Latest Posts', 'number' => 3) ); ?>
+                                <?php the_widget('WP_Widget_Recent_Posts', array('title' => __('Latest Posts', 'wpcurso'), 'number' => 3) ); ?>
                             </div>
 
 						</div>

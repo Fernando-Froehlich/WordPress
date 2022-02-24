@@ -1,0 +1,258 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Curso 1.0\n"
+"POT-Creation-Date: 2022-02-22 16:27-0300\n"
+"PO-Revision-Date: 2022-02-22 16:56-0300\n"
+"Last-Translator: Fernando Froehlich Soares <lamota.rlz@gmail.com>\n"
+"Language-Team: \n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: _e;__;_x;_nx;esc_attr_x\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:13
+msgid "Page Not Found"
+msgstr "Página não encontrada"
+
+#: 404.php:14
+msgid "Unfotunately, the page cannot be found"
+msgstr "Infelizmente a página não pode ser encontrada"
+
+#: 404.php:18
+msgid "How about a new search?"
+msgstr "Que tal uma nova busca?"
+
+#: 404.php:20
+msgid "Latest Posts"
+msgstr "Postagens recentes"
+
+#: archive.php:32 index.php:29
+msgid "<< Newer posts"
+msgstr "Postagens mais recentes"
+
+#: archive.php:35 index.php:32
+msgid "Older posts >>"
+msgstr "Postagens mais antigas"
+
+#: archive.php:44
+msgid "There&rsquo;s nothing yet to be displayed..."
+msgstr "Ainda não há nada para ser exibido..."
+
+#: comments.php:31
+#, php-format
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "Um comentário sobre &ldquo;%s&rdquo;"
+
+#: comments.php:36
+#, php-format
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgstr "%1$s comentário sobre &ldquo;%2$s&rdquo;"
+
+#: comments.php:69
+msgid "Comments are closed."
+msgstr "Os comentários estão fechados."
+
+#: functions.php:23
+msgid "Main Menu"
+msgstr "Menu principal"
+
+#: functions.php:24
+msgid "footer Menu"
+msgstr "Menu do Rodapé"
+
+#: functions.php:48
+msgid "Home Page Sidebar"
+msgstr "Barra lateral da Home Page"
+
+#: functions.php:50
+msgid "Sidebar to be used on Home Page"
+msgstr "Barra lateral para ser usada na Home Page"
+
+#: functions.php:59
+msgid "Blog Sidebar"
+msgstr "Barra lateral do Blog"
+
+#: functions.php:61
+msgid "Sidebar to be used on Blog Page"
+msgstr "Barra lateral para ser usada na página Blog"
+
+#: functions.php:70
+msgid "Services 1"
+msgstr "Serviços 1"
+
+#: functions.php:72
+msgid "First Services Area."
+msgstr "Primeira área de serviços."
+
+#: functions.php:81
+msgid "Services 2"
+msgstr "Serviços 2"
+
+#: functions.php:83
+msgid "Second Services Area."
+msgstr "Segunda área de serviços."
+
+#: functions.php:92
+msgid "Services 3"
+msgstr "Serviços 3"
+
+#: functions.php:94
+msgid "Third Services Area."
+msgstr "Terceira área de serviços."
+
+#: functions.php:103
+msgid "Social Icons"
+msgstr "Ícones sociais"
+
+#: functions.php:105
+msgid "Place your media icons here."
+msgstr "Coloque seus ícones de mídia aqui."
+
+#: general-template.php:36 index.php:41
+msgid "There&rsquo;s nothing to be displayed..."
+msgstr "Não há nada para ser exibido..."
+
+#: inc/customizer.php:8 inc/customizer.php:23
+msgid "Copyright"
+msgstr "Copyright"
+
+#: inc/customizer.php:9
+msgid "Copyright Section"
+msgstr "Seção de copyright"
+
+#: inc/customizer.php:16
+msgid "Copyright MA BIETCH - All Rights reserved"
+msgstr "Copyright MA BIETCH - Todos os direitos reservados"
+
+#: inc/customizer.php:24
+msgid "Choose whether to show the Services section or not"
+msgstr "Escolha o que exibir no Serviços ou não"
+
+#: inc/customizer.php:34
+msgid "Map"
+msgstr "Mapa"
+
+#: inc/customizer.php:35
+msgid "Map Section"
+msgstr "Seção Mapa"
+
+#: inc/customizer.php:51
+msgid "API Key"
+msgstr "Chave API"
+
+#: inc/customizer.php:53
+#, php-format
+msgid "Get your key <a target=\"_blank\" href=\"%s\">here</a>"
+msgstr "Obtenha sua chave  <a target=\"_blank\" href=\"%s\">here</a>"
+
+#: inc/customizer.php:73
+msgid "Type your address here"
+msgstr "Digite seu endereço aqui"
+
+#: inc/customizer.php:74
+msgid "No special characters allowed"
+msgstr "Nenhum caractere especial autorizado"
+
+#: inc/customizer.php:84
+msgid "Slider"
+msgstr "Slider"
+
+#: inc/customizer.php:85
+msgid "Slider Section"
+msgstr "Seção Slider"
+
+#: inc/customizer.php:100
+msgid "Choose your desaign type here"
+msgstr "Escolha seu tipo de design aqui"
+
+#: inc/customizer.php:101
+msgid "Choose your desaign type"
+msgstr "Escolha seu tipo de Design"
+
+#: inc/customizer.php:105
+msgid "Design Type 1"
+msgstr "Tipo de design 1"
+
+#: inc/customizer.php:106
+msgid "Design Type 2"
+msgstr "Tipo de design 2"
+
+#: inc/customizer.php:107
+msgid "Design Type 3"
+msgstr "Tipo de design 3"
+
+#: inc/customizer.php:108
+msgid "Design Type 4"
+msgstr "Tipo de design 4"
+
+#: inc/customizer.php:125
+msgid "Number of posts to display"
+msgstr "Número de posts para exibir"
+
+#: inc/customizer.php:126
+msgid "Choose the number of posts to display"
+msgstr "Escolha o número de posts para exibir"
+
+#: page-home.php:15
+msgid "Our Services"
+msgstr "Nossos Serviços"
+
+#: page-home.php:53
+msgid "Latest News"
+msgstr "Últimas Notícias"
+
+#: search.php:6
+msgid "Search results for:"
+msgstr "Buscar resultados para:"
+
+#: search.php:22
+msgid "Previous"
+msgstr "Anterior"
+
+#: search.php:23
+msgid "Next"
+msgstr "Próximo"
+
+#: searchform.php:13 sidebar-home.php:4
+msgid "Search &hellip;"
+msgstr "Pesquisa &hellip;"
+
+#: searchform.php:15 sidebar-home.php:6
+msgid "OK"
+msgstr "OK"
+
+#: template-parts/content-archive.php:5 template-parts/content-image.php:5
+#: template-parts/content-search.php:4 template-parts/content-video.php:5
+#: template-parts/content.php:5
+msgid "Published in"
+msgstr "Publicado em"
+
+#: template-parts/content-archive.php:5 template-parts/content-featured.php:8
+#: template-parts/content-image.php:5 template-parts/content-search.php:4
+#: template-parts/content-secondary.php:8 template-parts/content-single.php:6
+#: template-parts/content-video.php:5 template-parts/content.php:5
+msgid "by"
+msgstr "por"
+
+#: template-parts/content-archive.php:6 template-parts/content-featured.php:10
+#: template-parts/content-image.php:7 template-parts/content-search.php:8
+#: template-parts/content-secondary.php:10 template-parts/content-single.php:8
+#: template-parts/content-video.php:7 template-parts/content.php:7
+msgid "Tags: "
+msgstr "Tags: "
+
+#: template-parts/content-featured.php:9 template-parts/content-image.php:6
+#: template-parts/content-search.php:6 template-parts/content-secondary.php:9
+#: template-parts/content-single.php:7 template-parts/content-video.php:6
+#: template-parts/content.php:6
+msgid "Categories: "
+msgstr "Categorias:"
+
+#: template-parts/content-single.php:6
+msgid "Posted in"
+msgstr "Postado em"

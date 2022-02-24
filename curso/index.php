@@ -22,23 +22,23 @@
 							<?php 
 								endwhile;
 
-							?>
+								?>
 									
-							<div class="row">
-								<div class="pages text-left col-6">
-									<?php previous_posts_link( "<< Newer posts" ); ?>
+								<div class="row">
+									<div class="pages text-left col-6">
+										<?php previous_posts_link( __("<< Newer posts", 'wpcurso') ); ?>
+									</div>
+									<div class="pages text-end col-6">
+										<?php next_posts_link( __("Older posts >>", 'wpcurso') ); ?>
+									</div>
 								</div>
-								<div class="pages text-end col-6">
-									<?php next_posts_link( "Older posts >>" ); ?>
-								</div>
-							</div>
 	
 
-							<?php
+								<?php
 							else:
 							?>
 
-							<p>There's nothing yet to be displayed...</p>
+							<p><?php _e('There&rsquo;s nothing to be displayed...', 'wpcurso'); ?></p>
 
 							<?php endif; ?>
 
